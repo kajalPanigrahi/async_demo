@@ -1,0 +1,24 @@
+{
+  "cadets": [
+    {
+      "id": 101,
+      "name": "aarti",
+      "email": "aarti@gmail.com"
+    },
+    {
+      "id": 102,
+      "name": "aarav",
+      "email": "aarav@gmail.com"
+    },
+    {
+      "name": "surabhi",
+      "email": "surabhi@gmail.com",
+      "id": 103
+    },
+    {
+      "name": "surabhi",
+      "email": "surabhi@gmail.com",
+      "id": 104
+    }
+  ]
+}
